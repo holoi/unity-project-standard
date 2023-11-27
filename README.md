@@ -28,7 +28,7 @@ The valid CRF value range is 0-63, with the default being 50. Lower values corre
 Please place videos under `Documentation~/videos/`
 
 ### Rules
-* Use mp4 for movie with sounds. Use animated images as possible. 
+* Use mp4 only when showing movie with sounds. If movie without background sound, use animated images instead. 
 
 * Use this line to include the images.
 
