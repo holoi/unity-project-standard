@@ -24,6 +24,10 @@ ffmpeg -i 02rekfish.mp4 -c:v libsvtav1  -crf 20 02rekfish.avif
 where 
 The valid CRF value range is 0-63, with the default being 50. Lower values correspond to higher quality and greater file size. 
 
+```
+ffmpeg -i 01fish.avif -vcodec libwebp  -lossless 0 -loop 0 -preset picture -an -vsync 0 -s 600:600 output.webp
+```
+
 ## Video 
 Please place videos under `Documentation~/videos/`
 
