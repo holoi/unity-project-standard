@@ -92,3 +92,19 @@ Please place videos under `Documentation~/videos/`
       └── com.holoi.reality.mofa
 ```
 
+## GitHub
+
+### Main HoloKit account 
+
+https://github.com/holokit/holokit-sdk
+https://github.com/holokit/holokit-app
+https://github.com/holokit/holokit-app-library
+https://github.com/holokit/holokit-multiplayer-template
+https://github.com/holokit/holokit-reality-template
+
+Forum: 
+https://github.com/orgs/holokit/discussions
+
+
+
+
